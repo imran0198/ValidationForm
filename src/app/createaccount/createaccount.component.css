@@ -1,0 +1,40 @@
+ /* .body{
+    background-color: blue;
+    height: 100vh
+}
+ * {
+    background: linear-gradient(black blue);
+}
+input{
+    background-color: aliceblue;
+    height: 40px;
+}
+form{
+    border: 1px white solid;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px white;
+    margin-top: 100px;
+    margin: auto;
+    margin-top: 50px;
+    
+
+}
+/* form{
+    border: 2px white solid;
+    padding: 20px;
+    width: 450px;
+    box-shadow: 0px 0px 0px 5px white ;
+    margin-top: 120px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+} */
+/* .col-md-06{ */
+    /* border: 0px solid black; */
+    /* background-color: blue; */
+    /* height: 800px; */
+    /* margin: auto; */
+    /* margin-top: 30px; */
+/* }    */
