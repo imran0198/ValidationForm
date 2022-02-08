@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ValidationForm"
+    }
+  },
+  "defaultProject": "ValidationForm",
+  "cli": {
+    "analytics": "4f64d528-bdc3-4c7c-9741-c142cf468af9"
+  }
 }
